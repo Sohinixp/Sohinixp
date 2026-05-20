@@ -32,8 +32,8 @@ Outside of IDEs, my perspective is shaped by:
 ---
 
 ### 📈 GitHub Analytics
-![Sohini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sohinixp&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sohinixp&layout=compact&theme=tokyonight)
+![Sohini's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sohini-xp&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sohini-xp&layout=compact&theme=tokyonight)
 
 ---
 *“Analyzing the architecture of systems—whether encoded in software, structured in law, or played on a board.”*
