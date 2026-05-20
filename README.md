@@ -30,19 +30,6 @@ Outside of IDEs, my perspective is shaped by:
 * **Systemic Understanding:** A deep interest in **Global Politics and Jurisprudence**, providing a unique lens on digital ethics, data privacy, and the legal implications of AI.
 
 ---
-
-### 📈 GitHub Analytics
-
-<p align="center">
-  <img src="https://shion.dev" alt="Sohini's GitHub Stats" width="48%" />
-  https://github-readme-stats.vercel.app/api?username=sohini-xp&show_icons=true&theme=tokyonight
-  <img src="https://shion.dev" alt="Top Langs" width="48%" />
-  https://github-readme-stats.vercel.app/api/top-langs/?username=sohini-xp&layout=compact&theme=tokyonight
-</p>
-
-
-
----
 *“Analyzing the architecture of systems—whether encoded in software, structured in law, or played on a board.”*
 <!--
 **Sohinixp/Sohinixp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
